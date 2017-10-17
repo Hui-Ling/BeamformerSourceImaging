@@ -8,7 +8,9 @@ Please see the the tutorials of MCB, SILSC, and BIPAC in https://github.com/Hui-
 
 ## Reference
 [1] Chen, Y.-S., C.-Y. Cheng, J.-C. Hsieh, and L.-F. Chen (2006), 'Maximum contrast beamformer for electromagnetic mapping of brain activity', IEEE Trans. Biomed., 53 (9), 1765-74.
+
 [2] Chan, H.-L., L.-F. Chen, I.-T. Chen, and Y.-S. Chen (2015), 'Beamformer-based spatiotemporal imaging of linearly-related source components using electromagnetic neural signals', NeuroImage, 114, 1-17.
+
 [3] Chan, H.-L., Y.-S. Chen, L.-F. Chen, and S. Baillet (2015), 'Beamformer-based imaging of phase-amplitude coupling using electromagnetic brain activity', 37th Conf. Proc. IEEE Eng. Med. Biol. Soc. (Milan, Italy), 7558-61.
 
 
