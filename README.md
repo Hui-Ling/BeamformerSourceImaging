@@ -2,7 +2,7 @@
 Brainstorm plug-ins for MEG and EEG source imaging, including (1) maximum contrast beamformer (MCB) for the use in localization of brain sources [1], (2) spatiotemporal imaging of linearly-related source components (SILSC) for the use in identification of source component linearly correlated to the activity of a seed [2], and (3) beamformer-based imaging of phase-amplitude coupling (BIPAC) for the use in identification of sources coupled to the specified seed [3], which has been awarded as the open finalist of student paper competition in IEEE EMBC 2015. MCB are a beamformer-based source localization method, whereas SILSC and BIPAC are seed-based methods for correlation imaging and PAC imaging. 
 
 ## Installation
-The program of BIPAC from has been written as a plug-in of the Matlab Software Brainstorm. Please download the program of BIPAC from Github: https://github.com/Hui-Ling/BeamformerSourceImaging. The *.m files should be placed in the the following folder: <user directory>\.brainstorm\process.
+The programs of MCB, SILSC, and BIPAC are plug-ins of the Matlab Software Brainstorm. It is necessary to install Brainstorm before using the plug-ins. Please download Brainstorm in http://neuroimage.usc.edu/brainstorm/ and our plug-ins in Github: https://github.com/Hui-Ling/BeamformerSourceImaging. After finishing the installation of Brainstorm, the plug-ins (.m files) should be placed in the the following folder: <user folder>\.brainstorm\process
 
 Please see the the tutorials of MCB, SILSC, and BIPAC in https://github.com/Hui-Ling/BeamformerSourceImaging/wiki.
 
