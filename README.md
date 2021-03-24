@@ -7,13 +7,13 @@ The programs of MCB, SILSC, and BIPAC are plug-ins of the Matlab Software Brains
 Please see the the tutorials of MCB, SILSC, and BIPAC in https://github.com/Hui-Ling/BeamformerSourceImaging/wiki.
 
 ## Reference
-[1] Chen, Y.-S., C.-Y. Cheng, J.-C. Hsieh, and L.-F. Chen (2006), 'Maximum contrast beamformer for electromagnetic mapping of brain activity', IEEE Trans. Biomed., 53 (9), 1765-74.
+[1] Chen, Y.-S., C.-Y. Cheng, J.-C. Hsieh, and L.-F. Chen (2006), 'Maximum contrast beamformer for electromagnetic mapping of brain activity', IEEE Trans. Biomed., 53 (9), 1765-74. DOI: https://doi.org/10.1109/TBME.2006.878115
 
-[2] Chan, H.-L., L.-F. Chen, I.-T. Chen, and Y.-S. Chen (2015), 'Beamformer-based spatiotemporal imaging of linearly-related source components using electromagnetic neural signals', NeuroImage, 114, 1-17.
+[2] Chan, H.-L., L.-F. Chen, I.-T. Chen, and Y.-S. Chen (2015), 'Beamformer-based spatiotemporal imaging of linearly-related source components using electromagnetic neural signals', NeuroImage, 114, 1-17. DOI: https://doi.org/10.1016/j.neuroimage.2015.03.038
 
-[3] Chan, H.-L., Y.-S. Chen, L.-F. Chen, and S. Baillet (2015), 'Beamformer-based imaging of phase-amplitude coupling using electromagnetic brain activity', 37th Conf. Proc. IEEE Eng. Med. Biol. Soc. (Milan, Italy), 7558-61.
+[3] Chan, H.-L., Y.-S. Chen, L.-F. Chen, and S. Baillet (2015), 'Beamformer-based imaging of phase-amplitude coupling using electromagnetic brain activity', 37th Conf. Proc. IEEE Eng. Med. Biol. Soc. (Milan, Italy), 7558-61. DOI: https://doi.org/10.1109/EMBC.2015.7320141
 
-[4] Low, I., Chen, L.-F, Chen Y.-S., Chu, I.-T., Hsieh, J.-C., and Chan, H.-L. (2021), A novel beamformer-based imaging of phase-amplitude coupling (BIPAC) unveiling the inter-regional connectivity of emotional prosody processing in women with primary dysmenorrhea', Journal of Neural Engineering. 
+[4]  Chan, H.-L., Low, I., Chen, L.-F, Chen Y.-S., Chu, I.-T., Hsieh, J.-C. (2021), A novel beamformer-based imaging of phase-amplitude coupling (BIPAC) unveiling the inter-regional connectivity of emotional prosody processing in women with primary dysmenorrhea', Journal of Neural Engineering. 
 DOI: https://doi.org/10.1088/1741-2552/abed83
 
 
